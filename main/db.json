@@ -1,0 +1,64 @@
+{
+    "campaigns": [
+        {
+            "id": 1,
+            "name": "Timeshift",
+            "description": "Some fun time shenanigans."
+        },
+        {
+            "id": 2,
+            "name": "Gateways",
+            "description": "This isn't a D&D campaign!!! What is this?"
+        }
+    ],
+    "characters": [
+        {
+            "id": 1,
+            "campaignId": 1,
+            "name": "Zook",
+            "type": "player",
+            "strength": 10,
+            "dexterity": 10,
+            "constitution": 10,
+            "intelligence": 10,
+            "wisdom": 10,
+            "charisma": 10
+        },
+        {
+            "id": 2,
+            "campaignId": 1,
+            "name": "Audrey",
+            "type": "player",
+            "strength": 10,
+            "dexterity": 10,
+            "constitution": 10,
+            "intelligence": 10,
+            "wisdom": 10,
+            "charisma": 10
+        },
+        {
+            "id": 3,
+            "campaignId": 1,
+            "name": "Sigrun",
+            "type": "player",
+            "strength": 10,
+            "dexterity": 10,
+            "constitution": 10,
+            "intelligence": 10,
+            "wisdom": 10,
+            "charisma": 10
+        },
+        {
+            "id": 4,
+            "campaignId": 1,
+            "name": "Abbul",
+            "type": "non_player",
+            "strength": 10,
+            "dexterity": 10,
+            "constitution": 10,
+            "intelligence": 10,
+            "wisdom": 10,
+            "charisma": 10
+        }
+    ]
+}
